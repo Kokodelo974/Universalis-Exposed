@@ -1,0 +1,3 @@
+Une galaxie est une structure cosmique formée d'étoiles, de [[0_Astrovers/4_Planète/Planète]]s, de gaz, de poussière interstellaire, sans doute essentiellement de [[Matière Noire]], le tout rassemblé par l’effet de gravitation de l'ensemble de ces composantes. En leur centre se trouve souvent un [[Trou Noir Supermassif]]. Les galaxies sont de formes diverses : spirale, elliptique, à anneau, ou irrégulière.
+
+Les galaxies appartiennent souvent à des groupes ou à des amas de galaxies, eux-mêmes pouvant se structurer en superamas. Elles ne sont pas des systèmes fermés : elles échangent et interagissent avec le milieu intergalactique et avec les galaxies voisines.

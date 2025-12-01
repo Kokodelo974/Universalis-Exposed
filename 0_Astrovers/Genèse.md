@@ -1,0 +1,1 @@
+La Genèse est le combat perpétuel des [[Astrolithes]] durant lequel chacun défends son [[Principe]].

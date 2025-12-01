@@ -1,0 +1,1 @@
+En astronomie, un système planétaire est un système composé de [[Planète]]s, ainsi que de divers corps célestes inertes tels des astéroïdes et comètes, gravitant autour d'une étoile.

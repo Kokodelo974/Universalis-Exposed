@@ -1,0 +1,1 @@
+Plus grande ville de [[Terra]], elle compte environ 10 des 50milliards d'individus recensés sur la planète. 

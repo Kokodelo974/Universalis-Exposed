@@ -1,0 +1,370 @@
+{
+  "main": {
+    "id": "8598377a57afcdf1",
+    "type": "split",
+    "children": [
+      {
+        "id": "49eb9d26627bad8e",
+        "type": "tabs",
+        "dimension": 33.6,
+        "children": [
+          {
+            "id": "373fb40dad547b30",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Terra.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Terra"
+            }
+          },
+          {
+            "id": "2c300e09fc984a9c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae/Grande Réunion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Grande Réunion"
+            }
+          },
+          {
+            "id": "5df9b16f803f9229",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Avènement de l'IA.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Avènement de l'IA"
+            }
+          },
+          {
+            "id": "0adf844ea81748ff",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae/Grande Réunion.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Grande Réunion"
+            }
+          }
+        ],
+        "currentTab": 1
+      },
+      {
+        "id": "edaa08efaf9bbb46",
+        "type": "tabs",
+        "dimension": 66.4,
+        "children": [
+          {
+            "id": "817768000501f2f2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ORGA/Templates/Timeline metadatas.md",
+                "mode": "source",
+                "source": true,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Timeline metadatas"
+            }
+          },
+          {
+            "id": "862d7fd48f9f9cb2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "1_Centaury 152/2_Astramar/3_Terratrion/Terratrion.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Terratrion"
+            }
+          },
+          {
+            "id": "9641bfd953dbc4ef",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "ORGA/Schéma/Terratrion -EX-.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Terratrion -EX-"
+            }
+          },
+          {
+            "id": "a5f7908b38a53d05",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Graph view"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "30c4bb7952325e3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d692112ee94a4c87",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "15b3db51f5079a33",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "69b9127b8484d1af",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b7ae5f62a0a00941",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 266.5
+  },
+  "right": {
+    "id": "67244dc9d8778bbe",
+    "type": "split",
+    "children": [
+      {
+        "id": "201ce2b83032b417",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "74031a5a336b0cc9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "2af00a922bd9c7d9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Astrolithes.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Astrolithes"
+            }
+          },
+          {
+            "id": "f15961f753d332e1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "6e2be4a6a971089d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "86a092dd5f766d5a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          },
+          {
+            "id": "e02b4d6e34f6b50a",
+            "type": "leaf",
+            "state": {
+              "type": "online.larslockefeer.obsidian-plugin-todo",
+              "state": {},
+              "icon": "checkmark",
+              "title": "Todo"
+            }
+          },
+          {
+            "id": "9cc121311b34b7aa",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Open graph view": false,
+      "templater-obsidian:Templater": false,
+      "switcher:Open quick switcher": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "timeline-view:Open timeline view": false
+    }
+  },
+  "active": "2c300e09fc984a9c",
+  "lastOpenFiles": [
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae/Grande Réunion.md",
+    "Avènement de l'IA.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Terra.md",
+    "ORGA/Timelines/TIMELINE Terra.md",
+    "ORGA/Schéma/Terratrion -EX-.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/Terratrion.md",
+    "ORGA/Templates/Timeline metadatas.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae/La Grande Division/Grande Division.md",
+    "ORGA/Images/Pasted image 20251129182240.png",
+    "ORGA/Images/Pasted image 20251129153255.png",
+    "ORGA/Images/Pasted image 20251129153207.png",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Dramatis Personae/Grand Progreditur.md",
+    "ORGA/Schéma",
+    "ORGA/Images",
+    "ORGA/Images/Pasted image 20251129153005.png",
+    "ORGA/Templates/Timeline declaration.md",
+    "ORGA/Templates/Timeline InlineEvent.md",
+    "ORGA",
+    "ORGA/Timelines",
+    "ORGA/Templates",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Politique/Regreditur.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Politique/Incedit.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Ville/Leulae.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Ville",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae/La Grande Division",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_3.Stratoria/Stratoria.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae",
+    "1_Centaury 152/2_Astramar/3_Terratrion/Humanité.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Dramatis Personae",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Bestiaire",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Untitled.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Satellite/Enul.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Satellite/Fotos.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Satellite/Ralis.md",
+    "0_Astrovers/3_Système Planétaire/Système Planétaire.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_5.Phastaro/Phastaro.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_0.Fa/Fa.md",
+    "0_Astrovers/4_Planète/Planète.md",
+    "1_Centaury 152/2_Astramar/3_Terratrion/4_8.Tinus/Tinus.md",
+    "Untitled.md",
+    "TimelineSampleVault/TimelineSampleVault/Canvases/Conditional Formats.canvas",
+    "TimelineSampleVault/TimelineSampleVault/Canvases/Basic usage.canvas",
+    "TimelineSampleVault/TimelineSampleVault/Canvases/Basic concept.canvas",
+    "TimelineSampleVault/TimelineSampleVault/Media/Pasted image 20230816134705.png",
+    "TimelineSampleVault/TimelineSampleVault/Media/Pasted image 20230707162508.png",
+    "TimelineSampleVault/TimelineSampleVault/Media/Pasted image 20230707162456.png",
+    "TimelineSampleVault/TimelineSampleVault/Media/Pasted image 20230707161828.png",
+    "TimelineSampleVault/TimelineSampleVault/Media/Pasted image 20230707161746.png",
+    "Untitled.canvas"
+  ]
+}
