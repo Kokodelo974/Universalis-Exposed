@@ -119,26 +119,12 @@
             }
           },
           {
-            "id": "a5f7908b38a53d05",
-            "type": "leaf",
-            "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": ".obsidian/app.json",
-                "bFile": ".obsidian/app.json",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: app.json"
-            }
-          },
-          {
             "id": "7f2623591ac5a982",
             "type": "leaf",
             "state": {
               "type": "VIEW_TYPE_TIMELINE_VIEW",
               "state": {
-                "focalValue": 1764628306100.589,
+                "focalValue": 1764628306112.2957,
                 "vScroll": 0,
                 "mode": "edit",
                 "scale": 0.04,
@@ -368,8 +354,9 @@
       "timeline-view:Open timeline view": false
     }
   },
-  "active": "9cc121311b34b7aa",
+  "active": "7f2623591ac5a982",
   "lastOpenFiles": [
+    "README.md",
     "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Fabulae/Grande Réunion.md",
     "Avènement de l'IA.md",
     "1_Centaury 152/2_Astramar/3_Terratrion/4_4.Terra/Terra.md",
@@ -409,7 +396,6 @@
     "1_Centaury 152/2_Astramar/3_Terratrion/4_0.Fa/Fa.md",
     "0_Astrovers/4_Planète/Planète.md",
     "1_Centaury 152/2_Astramar/3_Terratrion/4_8.Tinus/Tinus.md",
-    "Untitled.md",
     "TimelineSampleVault/TimelineSampleVault/Canvases/Conditional Formats.canvas",
     "TimelineSampleVault/TimelineSampleVault/Canvases/Basic usage.canvas",
     "TimelineSampleVault/TimelineSampleVault/Canvases/Basic concept.canvas",
