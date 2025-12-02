@@ -20,10 +20,21 @@ Système de synchronisation des sources "Git":
 	1. git clone https://github.com/Kokodelo974/Universalis-Exposed.git
 	Normalement on a désormais dans notre coffre fort Obsidian un nouveau répertoire "Universalis-Exposed" avec du contenu à l'intérieur: les sources du projet.
 
-## Ouvrir le projet et faire sa première modification
+## Ouvrir le projet
 
 1. Lancer Obsidian
 2. Dans la fenêtre qui s'ouvre, sélectionner l'option "Open folder as vault" ou "Ouvrir un dossier comme coffre" et sélectionner le répertoire créé lors du clonage des sources: *Universalis-Exposed*.
    ![[Pasted image 20251202105023.png]]
 3. Une fenêtre s'ouvre, il faut confirmer que l'on fait confiance aux plugins communautaires du projet. Ils seront commun à tous pour que l'on puisse profiter du même point de vu.
-4. 
+
+## Faire sa première modification
+
+On est presque près à modifier et synchroniser le projet.
+1. Cliquer sur le bouton "Open Git Source control" sur la gauche 
+   ![[Pasted image 20251202110048.png]]
+2. Cela va ouvrir le panneau latéral droit sur l'onglet Git
+
+
+
+## Ultra Users
+Kokodelo
