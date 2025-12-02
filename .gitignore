@@ -1,10 +1,5 @@
-# Ignore les paramètres volatiles propres à obsidian
-.obsidian/themes
-.obsidian/app.json
-.obsidian/appearance.json
-.obsidian/backlink.json
-.obsidian/bookmarks.json
-.obsidian/graph.json
-.obsidian/hotkeys.json
-.obsidian/types.json
-.obsidian/workspace.json
+# Ignorer tout le dossier .obsidian
+.obsidian/*
+
+# mais garder les plugins communautaires
+!.obsidian/community-plugins.json
