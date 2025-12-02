@@ -1,13 +1,15 @@
 # Universalis-Exposed
 
-## Outils nécessaires:
+## I. Outils nécessaires:
 Logiciel de prise de note "Obsidian"
 1. télécharger https://obsidian.md/download
 Système de synchronisation des sources "Git":
 2. télécharger https://git-scm.com/install/windows (cliquer sur suivant/ok tout le long de l'installateur)
 3. Se créer un compte sur https://github.com/
+4. Communiquer l'email et le nom d'utilisateur à kokodelo974@gmail.com (ou autre canal) pour recevoir une invitation au projet
+5. Une fois l'invitation reçue, accepter. En attendant on devrait pouvoir faire les étapes jusqu'à la **II.4**, 
 
-## Récupérer le projet et sa synchronisation:
+## II. Récupérer le projet et sa synchronisation:
 
 1. Créer un répertoire de qui accueillera le "Vault Obsidian" (*coffre fort*) dans Windows, dans "Mes Documents" et l'appeler "Obsidian Vaults" (**par exemple**)
 2. Ouvrir le répertoire créé et effectuer un "clic droit" -> "open git bash here" (*sur Windows 11+, il faut faire "shift + clic droit" ou "clic droit" -> "Afficher d'autres options" pour avoir l'option disponible. Cette option est disponible car on l'a ajouté durant l'installation de Git*). On vient d'ouvrir un invité de commande de type "git bash".
@@ -20,21 +22,21 @@ Système de synchronisation des sources "Git":
 	1. git clone https://github.com/Kokodelo974/Universalis-Exposed.git
 	Normalement on a désormais dans notre coffre fort Obsidian un nouveau répertoire "Universalis-Exposed" avec du contenu à l'intérieur: les sources du projet.
 
-## Ouvrir le projet
+## III. Ouvrir le projet
 
 1. Lancer Obsidian
 2. Dans la fenêtre qui s'ouvre, sélectionner l'option "Open folder as vault" ou "Ouvrir un dossier comme coffre" et sélectionner le répertoire créé lors du clonage des sources: *Universalis-Exposed*.
    ![[Pasted image 20251202105023.png]]
 3. Une fenêtre s'ouvre, il faut confirmer que l'on fait confiance aux plugins communautaires du projet. Ils seront commun à tous pour que l'on puisse profiter du même point de vu.
 
-## Faire sa première modification
+## IV. Faire sa première modification
 
 On est presque près à modifier et synchroniser le projet.
 1. Cliquer sur le bouton "Open Git Source control" sur la gauche 
    ![[Pasted image 20251202110048.png]]
-2. Cela va ouvrir le panneau latéral droit sur l'onglet Git
-
+2. Cela va ouvrir le panneau latéral droit sur l'onglet Git, il ne répertorie aucun changement pour le moment
+   ![[Pasted image 20251202110226.png]]
+3. 
 
 
 ## Ultra Users
-Kokodelo
