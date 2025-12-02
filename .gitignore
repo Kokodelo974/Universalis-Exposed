@@ -3,3 +3,6 @@
 
 # mais garder les plugins communautaires
 !.obsidian/community-plugins.json
+
+# ... ET garder le code des plugins eux-mêmes (C'est la clé !)
+!.obsidian/plugins/
