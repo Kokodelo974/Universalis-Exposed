@@ -5,6 +5,7 @@ Logiciel de prise de note "Obsidian"
 1. télécharger https://obsidian.md/download
 
 Système de synchronisation des sources "Git":
+
 2. télécharger https://git-scm.com/install/windows (cliquer sur suivant/ok tout le long de l'installateur)
 
 3. Se créer un compte sur https://github.com/
