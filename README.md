@@ -2,6 +2,10 @@
 
 Le but de se projet est de créer un univers "prêt à l'emploie", collaboratif (ou pas) pour avoir des histoires à dispositions pour ensuite aller où nos désirs et notre imagination nous mènent.
 
+L'idée est de créé un wiki facile à étendre, pouvant s'agrémenter d'histoires plus complexes par la suite.
+
+**TODO**: rédiger un "HOW TO" sur les bonnes pratiques et les règles d'utilisation globales au projet.
+
 ## I. Outils nécessaires:
 Logiciel de prise de note "Obsidian"
 1. télécharger https://obsidian.md/download
