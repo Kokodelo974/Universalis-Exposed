@@ -34,9 +34,14 @@ Système de synchronisation des sources "Git":
 On est presque près à modifier et synchroniser le projet.
 1. Cliquer sur le bouton "Open Git Source control" sur la gauche 
    ![[Pasted image 20251202110048.png]]
-2. Cela va ouvrir le panneau latéral droit sur l'onglet Git, il ne répertorie aucun changement pour le moment
+2. Cela va ouvrir le panneau latéral droit sur l'onglet Git, il ne répertorie aucun changement sur les notes pour le moment
    ![[Pasted image 20251202110226.png]]
-3. 
+3. Ajouter son pseudo a la partie suivante et le fichier README (ce fichier) devrait apparaitre dans la liste des changement.
+   
+4. On peut alors modifier le message du "commit" qui est par défaut "vault backup: {{date}}" et "commit" ces changements avec le 2eme bouton représenté par une coche "V"
+5. Il faut ensuite "push" ces changements pour qu'ils soient effectifs avec la flèche vers le haut.
+
+VOILA.
 
 
 ## Ultra Users
