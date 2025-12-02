@@ -39,7 +39,9 @@ On est presque près à modifier et synchroniser le projet.
 3. Ajouter son pseudo a la partie suivante et le fichier README (ce fichier) devrait apparaitre dans la liste des changement.
    
 4. On peut alors modifier le message du "commit" qui est par défaut "vault backup: {{date}}" et "commit" ces changements avec le 2eme bouton représenté par une coche "V"
+![[Pasted image 20251202202315.png]]
 5. Il faut ensuite "push" ces changements pour qu'ils soient effectifs avec la flèche vers le haut.
+![[Pasted image 20251202202402.png]]
 
 VOILA.
 
