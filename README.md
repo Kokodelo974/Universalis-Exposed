@@ -1,5 +1,7 @@
 # Universalis-Exposed
 
+Le but de se projet est de créer un univers "prêt à l'emploie", collaboratif (ou pas) pour avoir des histoires à dispositions pour ensuite aller où nos désirs et notre imagination nous mènent.
+
 ## I. Outils nécessaires:
 Logiciel de prise de note "Obsidian"
 1. télécharger https://obsidian.md/download
